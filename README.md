@@ -97,5 +97,5 @@ For the best nostalgic experience, Legacy Nether: Extended pairs well with resou
 
 ## 🤝 Support
 
-* 💬 Join the community on [**Discord**](https://discord.com/invite/uhmuVmk2ut)
+* 💬 Join the community on [**Discord**](https://discord.com/invite/S94fHA3Gs4)
 * 🛠️ Report issues or contribute on [**GitHub**](https://github.com/Pigzone00/Legacy-Nether-Extended)
