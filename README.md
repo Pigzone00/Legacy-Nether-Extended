@@ -23,6 +23,9 @@ Some of the features include:
 
 ## ✨ Feature list
 
+<details>
+<summary>Feature List</summary>
+
 ## Key:
 ✅ - Implemented
 
@@ -30,9 +33,6 @@ Some of the features include:
 
 ❌ - Not Implemented
 
-<details>
-<summary>Feature List</summary>
-  
 |**Feature**|Implemented|Planned|
 |-|-|-|
 |All modern Nether biomes (Crimson, Warped, Soul Sand Valley, Basalt Deltas) retained|✅|☑️|
@@ -99,3 +99,10 @@ For the best nostalgic experience, Legacy Nether: Extended pairs well with resou
 
 * 💬 Join the community on [**Discord**](https://discord.com/invite/S94fHA3Gs4)
 * 🛠️ Report issues or contribute on [**GitHub**](https://github.com/Pigzone00/Legacy-Nether-Extended)
+
+---
+
+## 🔄 Want Modern Features Too?
+
+Prefer to keep Netherite, Bastions, and the new biomes? Check out the extended version:
+[**Legacy Nether: Extended**](https://modrinth.com/datapack/legacy-nether-extended)
