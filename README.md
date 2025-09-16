@@ -102,7 +102,7 @@ For the best nostalgic experience, Legacy Nether: Extended pairs well with resou
 
 ---
 
-## 🔄 Want Modern Features Too?
+## 🔄 Prefer the Classic Version?
 
-Prefer to keep Netherite, Bastions, and the new biomes? Check out the extended version:
-[**Legacy Nether: Extended**](https://modrinth.com/datapack/legacy-nether-extended)
+Don’t want any of the new features? Check out the original:
+[**Legacy Nether**](https://modrinth.com/datapack/legacy-nether-modrinth)
