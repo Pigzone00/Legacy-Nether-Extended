@@ -16,7 +16,7 @@ Some of the features include:
 * **Modern biomes** such as Crimson Forests and Soul Sand Valleys generate naturally, but mob spawning and loot tables are tuned to evoke the console editions.
 * **Ancient Debris and Netherite** progression are fully supported for players who want modern endgame content.
 * **Piglins, Hoglins, Striders**, and other new mobs spawn alongside classic mobs like Zombified Piglins, Ghasts, Magma Cubes, and Wither Skeletons.
-* **(Coming Soon) Nether Wart** still spawns on Soul Sand in the wild.
+* **Nether Wart** still spawns on Soul Sand in the wild. **(Thanks to @Soupio777)**
 * **Blaze Glowstone Dust drops** remain for nostalgia farming.
 
 ---
@@ -39,7 +39,7 @@ Some of the features include:
 |Bastion Remnants & other new structures retained|✅|☑️|
 |Classic mobs (Zombified Piglins, Ghasts, Magma Cubes) spawn alongside new mobs|✅|☑️|
 |Wither Skeletons spawn everywhere|✅|☑️|
-|Nether Wart generates on Soul Sand|❌|☑️|
+|Nether Wart generates on Soul Sand (Thanks to @Soupio777)|✅|☑️|
 |Blazes drop 0–2 Glowstone Dust|✅|☑️|
 |Netherite & Ancient Debris progression supported|✅|☑️|
 
