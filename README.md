@@ -51,6 +51,7 @@ Some of the features include:
 
 For the best nostalgic experience, Legacy Nether: Extended pairs well with resource packs and mods that restore classic visuals and mechanics, such as:
 
+* [**Legacy4J**](https://modrinth.com/mod/legacy4j) to bring back every aspect of Legacy Console Edition to modern versions.
 * [**Golden Days**](https://github.com/PoeticRainbow/golden-days/releases) by *PoeticRainbow* for authentic pre-1.14 textures.
 * [**Nostalgic Tweaks**](https://modrinth.com/mod/nostalgic-tweaks) by *Adrenix* to bring back old fog, lighting, skies, and combat.
 * [**Moderner Beta**](https://modrinth.com/mod/moderner-beta) for terrain generation alongside your extended Nether.
